@@ -25,7 +25,7 @@ A sophisticated palm reading application that uses AI (OpenAI Vision) to analyze
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/RuneweaverStudios/ai-palm-reader.git
+   git clone https://github.com/austindixson/ai-palm-reader.git
    cd ai-palm-reader/palm-reader
    ```
 
